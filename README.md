@@ -20,7 +20,7 @@ TreeTop was inspired by my struggle in documenting stories of my ancestors and s
 **Frontend:** JavaScript (AJAX, JSON, React), Jinja, jQuery, Bootstrap</br>
 **Backend:** Python, Flask, SQLAlchemy, PostgreSQL<br/>
 **Libraries:** D3, Chart.js, Pandas, Scikit-learn<br/>
-<!-- **API:** <br/> -->
+**API: Google Maps, Spotify** <br/>
 
 <a name="installation"/></a>
 ## Setup/Installation
@@ -62,7 +62,7 @@ Navigate to localhost:5000 in browser.
 <a name="demo"/></a>
 ## Demo
 
-**Enter a song, performer, album, or producer.  Select desired result.**
+**Create family as admin.**
 <br/><br/>
 ![Homepage](/static/images/readme/homepage.gif)
 <br/>
@@ -73,4 +73,4 @@ Navigate to localhost:5000 in browser.
 <a name="future"/></a>
 ## Future Development
 * Experiment with security.
-* Incorporation face recognition technology.
+* Incorporate face recognition technology.

@@ -20,7 +20,7 @@ TreeTop was inspired by my struggle in documenting stories of my ancestors and s
 **Frontend:** JavaScript (AJAX, JSON, React), Jinja, jQuery, Bootstrap</br>
 **Backend:** Python, Flask, SQLAlchemy, PostgreSQL<br/>
 **Libraries:** D3, Chart.js, Pandas, Scikit-learn<br/>
-**API: Google Maps, Spotify** <br/>
+**API:** Google Maps, Spotify <br/>
 
 <a name="installation"/></a>
 ## Setup/Installation
